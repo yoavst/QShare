@@ -20,3 +20,23 @@ QShare is A sample QPair app that share text and image between phone and tablet.
 The app need to be installed on both devices.
 
 **Special credit to [Graphicsfuel](http://www.graphicsfuel.com/) for the [free icon](https://www.iconfinder.com/icons/143827/paper_plane_icon#size=128).**
+
+License
+-------
+
+    Copyright 2014 Yoav Sternberg
+
+    Quick Circle Apps is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Quick Circle Apps is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Quick Circle Apps. If not, see <http://www.gnu.org/licenses/>.
+
+---
